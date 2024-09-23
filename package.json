@@ -1,7 +1,7 @@
 {
-  "name": "ReactEcommerceEffectiveFilterSystem",
+  "name": "Filter",
   "version": "1.0.0",
-  "homepage": "https://Saqibaqeel.github.io/ReactEcommerceEffectiveFilterSystem",
+  "homepage": "https://Saqibaqeel.github.io/Filter",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

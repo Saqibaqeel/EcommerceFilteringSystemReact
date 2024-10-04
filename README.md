@@ -26,19 +26,4 @@ This repository contains an **E-commerce Filtering System** built using **React*
    git clone https://github.com/Saqibaqeel/EcommerceFilteringSystemReact.git
 
 
-   src/
-│
-├── components/
-│   ├── Filter.js         # Handles category and price filters
-│   ├── ProductList.js    # Displays filtered products
-│   ├── SearchBar.js      # Handles product search functionality
-│
-├── data/
-│   └── products.js       # Stores product data array
-│
-├── App.js                # Main application component
-├── index.js              # Application entry point
-├── App.css               # Styles for the app
-└── index.css             # Global styles
-
 
